@@ -1,4 +1,4 @@
-<h1>WEB Elmek</h1>
+# WEB Elmek
 [View](https://Ejdmmm.github.io/elmek-web-rozpracovany/)
 <h2>GROUP:</h2>
 <a href="https://github.com/deesdav">D. Švancar</a> <br>
